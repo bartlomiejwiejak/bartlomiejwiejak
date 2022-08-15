@@ -1,3 +1,3 @@
 ### Hi there! 👋
 
-I'm 💻 Creative Developer focused on :cyclone: React for interactive projects :fire:
+I'm 💻 React Developer focused on :cyclone: crafting large scale applications with TypeScript :fire:
